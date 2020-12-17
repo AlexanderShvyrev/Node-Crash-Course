@@ -1,0 +1,1881 @@
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello from blog 3
+
+
+ALEXANDER SHVYREV
+(513) 439-0101
+alexandr.shvyrev@gmail.com
+LinkedIn || GitHub
+
+SUMMARY:
+• Agile, waterfront Front-End Engineer with an interest in utilizing new technical solutions for businesses.
+• Strong team player with an experience in information and technology, I have been working on various system platforms and operating systems like Windows, MAC, iOS, Android OS.
+• As a self-motivated professional I bring an inquisitive mindset and novel perspective to problem-solving.
+• Proficient in a range of programming languages, tools, and testing Web-based and mobile applications. 
+• Passionate for creating robust and user-friendly products.
+
+TECHNICAL SKILLS:
+Programming Languages: C#, JavaScript ES5 and ES6, SQL, Python, HTML5, CSS3
+Frameworks: ASP.NET, Node.js, React, React Native, Django, Bootstrap, MongoDB, MS Entity Core, MVC, S3, EC2
+Version Control and Deployment: Git, Github, Amazon Web Services
+
+PROFESSIONAL EXPERIENCE:
+
+Internal Engineer Intern @ Allpeople 					       Remote • 09/2020 - present
+• Support and maintain the company’s IT infrastructure.
+• Provide technical support to end users within the company. 
+• Testing, handling and resolving software errors.
+
+Front End Developer @ Evlooker 					       Remote • 07/2020 - present
+• Working as a freelance developer, responsible for designing, creating, and maintaining the frontend portion of the website.
+
+Full Stack Web Developer @ Coding Dojo		                                                02/2020 - 06/2020                              02/2020 - 06/2020
+• Accumulated 1,000+ hours of intensive programming course work including building, testing, and debugging on Django, ASP.NET, and MERN. 
+• 200+ hours of Fullstack in-house development on web applications and other technical projects.
+• Evaluated scope and requirements based on project documentation.
+
+Junior developer @ NextGen Tech , Rosemont, IL			     Contract • 07/2018 - 02/2020
+• Consistently worked on website design ideas that brought simplicity and a positive user experience. 
+• Participated in the execution of all development stages from concept to deployment, to live website.
+• Developed custom modules and interfaces in ReactJs. 
+• Worked in a team to provide maintenance for various React websites, using JavaScript, HTML and CSS.
+                                     			                                     PERSONAL PROJECTS:												Movie Guru (GitHub)									           05//2020	• Interactive web application that allows users to search, add, and discuss movies. I’ve integrated Google API so that users can look up the nearest movie theater. I’ve also built a login and registration for the app.	Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ		Menu-Builder (GitHub)									           05//2020	• Web application that allows users to create their meal through interactive JS features. The customer can then check out through Stripe API. 									Tools Used: Node, React, Express, Mongoose, Bcrypt, Cors, Axios, ES6					Event Planner (http://18.220.174.34)							           04//2020	• Web application that allows users to add their events or RSVP to the ones that were previously created by other users. I have integrated onboarding process for login and registration				Tools Used: ASP.Net Core, Entity Framework, MySQL, C#, MVC, OOP, ORM, LINQ.EDUCATION:												• Certificate, Full Stack Web Development Bootcamp, Coding Dojo • Remote • 2020			• Bachelor’s Degree in Computer Science, North-Caucasus State Technical University • Russia • 2008, 2019
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
